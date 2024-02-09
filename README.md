@@ -1,3 +1,10 @@
+A To-Do List App:
+
+<img width="881" alt="Screenshot 2024-02-09 at 11 35 14 AM" src="https://github.com/jineshgireesan/Todo-List/assets/66738751/27876593-7d33-4c55-bfb8-5c43944f63a9">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
